@@ -4,7 +4,7 @@
 <img align="center" src="https://editor.analyticsvidhya.com/uploads/30783expressanlytics.jpg" width="900" height="300" /> 
 
 
-### [Financial Sentiment Analysis]()
+### [Financial Sentiment Analysis](https://github.com/MeghanaH0706/Financial_Sentiment_Analysis/tree/main/Financial%20sentiment%20analysis)
 
 <h> Problem Statement: </h>
 
