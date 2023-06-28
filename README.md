@@ -8,92 +8,53 @@
 
 <h> Problem Statement: </h>
 
-<h><b>CUSTOMER CHURN </b></h>
+<h><b>Sentiment Analysis </b></h>
 __________________
 
-What is customer churn?
+What is sentiment analysis?
 
-Customer churn, also known as customer retention, customer turnover, or customer defection, is the 
-loss of clients or customers.
+The process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.
 
-Churn rates are calculated by dividing the number of customers who cancel their account in each month by the 
-total number of customers at the beginning of that same month, then multiplying the result by 100.
+_____________________________
+Why Is Sentiment Analysis Important?
 
-Example:
-3,000 / 10,000 * 100 = 30% Churn Rate
+Since humans express their thoughts and feelings more openly than ever before, sentiment analysis is fast becoming an essential tool to monitor and understand sentiment in all types of data.
 
-Telephone service companies use customer attrition analysis and customer attrition rates as one of 
-their key business metrics because the cost of retaining an existing customer is far less than acquiring 
-a new one.
-Companies from these sectors often have customer service branches which attempt to 
-win back defecting clients, because recovered long-term customers can be worth much more to a 
-company than newly recruited clients.
+Automatically analyzing customer feedback, such as opinions in survey responses and social media conversations, allows brands to learn what makes customers happy or frustrated, so that they can tailor products and services to meet their customers’ needs.
 
-Companies usually make a distinction between voluntary churn and involuntary churn.Voluntary 
-churn occurs due to a decision by the customer to switch to another company or service provider, 
-involuntary churn occurs due to circumstances such as a customer's relocation to a long-term care 
-facility, death, or the relocation to a distant location. In most applications, involuntary reasons for 
-churn are excluded from the analytical models. Analysts tend to concentrate on voluntary churn, 
-because it typically occurs due to factors of the company-customer relationship which companies’ 
-control, such as how billing interactions are handled or how after-sales help is provided.
+For example, using sentiment analysis to automatically analyze 4,000+ open-ended responses in your customer satisfaction surveys could help you discover why customers are happy or unhappy at each stage of the customer journey.
 
-predictive analytics use churn prediction models that predict customer churn by assessing their 
-propensity of risk to churn. Since these models generate a small, prioritized list of potential defectors, 
-they are effective at focusing customer retention marketing programs on the subset of the customer 
-base who are most vulnerable to churn.
+Maybe you want to track brand sentiment so you can detect disgruntled customers immediately and respond as soon as possible. Maybe you want to compare sentiment from one quarter to the next to see if you need to take action. Then you could dig deeper into your qualitative data to see why sentiment is falling or rising.
 ________________________________
 
-impact of churn rate?
+The overall benefits of sentiment analysis include:
 
-Low churn: If the customers having more subscribing within period of months it represented the low churn
+Sorting Data at Scale
 
-high churn: If the customers having less subscribing within period of months it represented the high churn
+Real-Time Analysis
+
+Consistent criteria
 
 ________________________
-Importance of churn rate?
+What is financial sentiment analysis?
 
-● Churn rates are important because losing customers means losing revenue
+The most common use of sentiment analysis in the financial sector is the analysis of financial news, particularly news related to predicting the behavior and possible trend of stock markets. Other uses include analyzing the tweets of influential financial analysts and decision makers.
+______________________________________
 
-● it tells you how many customers you’re losing monthly
+Application of sentiment analysis
 
-● If your churn rate is too high, it’s time to take a closer look at your business and see where you can 
-improve.
-__________________________________________
+Social media monitoring
 
-What are the Causes of Customer Churn?
+Customer support ticket analysis
 
-High Price
+Brand monitoring and reputation management
 
-Lack of new features
+Listen to voice of the customer (VoC)
 
-Poor customer service
+Listen to voice of the employee
+Product analysis
 
-Competitors’ marketing efforts
-______________________________________________
-
-Ways to Reduce Customer Churn
-
-● Improve your customer service resolve any issues such as calls and email queries as quickly as 
-possible
-
-● Updating product with new features
-
-● Giving discount to the customer whose churn rate having high
-
-● Giving offer to the customer whose churn rate having high
-Business Objective
-
-● Maximize the Company's profit by retaining customer
-
-● Minimize the Customer churn by identifying the key cause of the problem
-The main objective of the project is to:
-
-● Finding factors and causes that influence customers to churn.
-
-● Retain churn customers by taking appropriate steps
-
-● Providing offers based on affecting factors.
-
+Market research and competitive research
 
 ___
 
